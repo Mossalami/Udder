@@ -33,11 +33,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Cow" translatesAutoresizingMaskIntoConstraints="NO" id="vJm-bb-5ZW">
-                                <rect key="frame" x="67" y="209" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk" translatesAutoresizingMaskIntoConstraints="NO" id="Bvm-Je-Upg">
-                                <rect key="frame" x="67" y="367" width="240" height="128"/>
+                                <rect key="frame" x="16" y="204" width="343" height="429"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -47,11 +43,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="133.59999999999999" y="133.5832083958021"/>
+            <point key="canvasLocation" x="125.59999999999999" y="16.641679160419791"/>
         </scene>
     </scenes>
     <resources>
         <image name="Cow" width="166" height="119"/>
-        <image name="milk" width="182" height="127"/>
     </resources>
 </document>
